@@ -56,10 +56,10 @@
 
 Где найти отчёты
 Все материалы — в папке [`testing/`](./testing/):
-- [`test_plan.md`](./testing/test_plan.md)
-- [`test_report.md`](./testing/test_report.md)
-- [`feedback_summary.md`](./testing/feedback_summary.md)
-- [`issues.md`](./testing/issues.md)
+- [`План тестирования`](./testing/test_plan.md)
+- [`Результат тестов`](./testing/test_report.md)
+- [`Обратная связь`](./testing/feedback_summary.md)
+- [`Проблемы и улучшения`](./testing/issues.md)
 
 Итог
 Приложение работает, но требует улучшения UX. Планируется добавить описание и визуальную обратную связь.
